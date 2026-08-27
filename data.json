@@ -1,0 +1,26 @@
+[
+  {
+    "img": "ivan-torres-MQUqbmszGGM-unsplash.jpg",
+    "name": "Pepperoni Pizza",
+    "price": 24.99,
+    "description": "6-slice pepperoni pizza (16 cm)"
+  },
+  {
+    "img": "charlesdeluvio-D-vDQMTfAAU-unsplash.jpg",
+    "name": "Japanese dumplings",
+    "price": 9.99,
+    "description": "Meat dumplings (10 pieces)"
+  },
+  {
+    "img": "homescreenify-sA3wymYqyaI-unsplash.jpg",
+    "name": "Spaghetti with meat",
+    "price": 20.99,
+    "description": "Spaghetti with meat, rice, and a sweet and spicy sauce."
+  },
+  {
+    "img": "no-revisions-gA81ZTsql68-unsplash.jpg",
+    "name": "Carrot cocktail",
+    "price": 4.99,
+    "description": "Carrot cocktail 250g"
+  }
+]
