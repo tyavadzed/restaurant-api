@@ -1,0 +1,65 @@
+[
+  {
+    "img": "ivan-torres-MQUqbmszGGM-unsplash.jpg",
+    "name": "Pepperoni Pizza",
+    "price": 24.99,
+    "description": "6-slice pepperoni pizza (16 cm)",
+    "category": "Meat"
+  },
+  {
+    "img": "charlesdeluvio-D-vDQMTfAAU-unsplash.jpg",
+    "name": "Japanese dumplings",
+    "price": 9.99,
+    "description": "Meat dumplings (10 pieces)",
+    "category": "Meat"
+  },
+  {
+    "img": "homescreenify-sA3wymYqyaI-unsplash.jpg",
+    "name": "Spaghetti with meat",
+    "price": 20.99,
+    "description": "Spaghetti with meat, rice, and a sweet and spicy sauce.",
+    "category": "Meat"
+  },
+  {
+    "img": "no-revisions-gA81ZTsql68-unsplash.jpg",
+    "name": "Carrot cocktail",
+    "price": 4.99,
+    "description": "Carrot cocktail 250g",
+    "category": "Drinks"
+  },
+  {
+    "img": "anh-nguyen-kcA-c3f_3FE-unsplash.jpg",
+    "name": "Vegan salad",
+    "price": 10.99,
+    "description": "Salad with mushrooms and eggs, lettuce leaves and sauce",
+    "category": "Vegan"
+  },
+  {
+    "img": "anna-tukhfatullina-food-photographer-stylist-Mzy-OjtCI70-unsplash.jpg",
+    "name": "Raspberry Cake",
+    "price": 6.99,
+    "description": "Raspberry, cream, and milk dessert",
+    "category": "Dessert"
+  },
+  {
+    "img": "victoria-shes-UC0HZdUitWY-unsplash.jpg",
+    "name": "Assorted Barbecue Platter",
+    "price": 29.99,
+    "description": "Barbecued ribs (1 rack) and 2 bell peppers in soy sauce.",
+    "category": "Meat"
+  },
+  {
+    "img": "chad-montano--GFCYhoRe48-unsplash.jpg",
+    "name": "Four-cheese burger",
+    "price": 12.99,
+    "description": "Vegan 4-cheese burger",
+    "category": "Vegan"
+  },
+  {
+    "img": "alex-munsell-auIbTAcSH6E-unsplash.jpg",
+    "name": "Black Angus Ribs with teriyaki sauce",
+    "price": 199.99,
+    "description": "Black Angus rib with teriyaki sauce",
+    "category": "Meat"
+  }
+]

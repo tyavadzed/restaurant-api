@@ -22,5 +22,17 @@
     "name": "Carrot cocktail",
     "price": 4.99,
     "description": "Carrot cocktail 250g"
+  },
+  {
+    "img": "anh-nguyen-kcA-c3f_3FE-unsplash.jpg",
+    "name": "Vegan salad",
+    "price": 10.99,
+    "description": "Salad with mushrooms and eggs, lettuce leaves and sauce"
+  },
+  {
+    "img": "anna-tukhfatullina-food-photographer-stylist-Mzy-OjtCI70-unsplash.jpg",
+    "name": "Raspberry Cake",
+    "price": 6.99,
+    "description": "Raspberry, cream, and milk dessert"
   }
 ]
