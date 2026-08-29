@@ -1,44 +1,38 @@
 [
   {
     "img": "ivan-torres-MQUqbmszGGM-unsplash.jpg",
-    "name": "bachana yle",
+    "name": "Pepperoni Pizza",
     "price": 24.99,
-    "description": "6-slice pepperoni pizza (16 cm)",
-    "category": "Meat"
+    "description": "6-slice pepperoni pizza (16 cm)"
   },
   {
-    "img": "WhatsApp Image 2026-08-27 at 23.20.03.jpeg",
+    "img": "charlesdeluvio-D-vDQMTfAAU-unsplash.jpg",
     "name": "Japanese dumplings",
     "price": 9.99,
-    "description": "Meat dumplings (10 pieces)",
-    "category": "Meat"
+    "description": "Meat dumplings (10 pieces)"
   },
   {
-    "img": "WhatsApp Image 2026-08-29 at 17.38.24 (4).jpeg",
+    "img": "homescreenify-sA3wymYqyaI-unsplash.jpg",
     "name": "Spaghetti with meat",
     "price": 20.99,
-    "description": "Spaghetti with meat, rice, and a sweet and spicy sauce.",
-    "category": "Meat"
+    "description": "Spaghetti with meat, rice, and a sweet and spicy sauce."
   },
   {
-    "img": "WhatsApp Image 2026-08-29 at 17.38.24 (2).jpeg",
+    "img": "no-revisions-gA81ZTsql68-unsplash.jpg",
     "name": "Carrot cocktail",
     "price": 4.99,
-    "description": "Carrot cocktail 250g",
-    "category": "Drinks"
+    "description": "Carrot cocktail 250g"
   },
   {
-    "img": "WhatsApp Image 2026-08-29 at 17.38.23.jpeg",
+    "img": "anh-nguyen-kcA-c3f_3FE-unsplash.jpg",
     "name": "Vegan salad",
     "price": 10.99,
-    "description": "Salad with mushrooms and eggs, lettuce leaves and sauce",
-    "category": "Vegan"
+    "description": "Salad with mushrooms and eggs, lettuce leaves and sauce"
   },
   {
-    "img": "WhatsApp Image 2026-08-29 at 17.38.23 (1).jpeg",
+    "img": "anna-tukhfatullina-food-photographer-stylist-Mzy-OjtCI70-unsplash.jpg",
     "name": "Raspberry Cake",
     "price": 6.99,
-    "description": "Raspberry, cream, and milk dessert",
-    "category": "Dessert"
+    "description": "Raspberry, cream, and milk dessert"
   }
 ]
